@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Practice4
+comment0.text=public\ class\ Practice4{\n\ \ \ \ public\ static\ void\ main(String\ []\ args)\n\ \ \ \ {\n\ \ \ \ \ \ \ \ int\ a\=20,b\=30;\n\ \ \ \ \ \ \ \ if(a>b)\n\ \ \ \ \ \ \ \ {\n\ \ \ \ \ \ \ \ \ \ \ \ System.out.println("A\ is\ greater");\n\ \ \ \ \ \ \ \ }\n\ \ \ \ \ \ \ \ else\n\ \ \ \ \ \ \ \ {\n\ \ \ \ \ \ \ \ \ \ \ \ if(b>a)\n\ \ \ \ \ \ \ \ \ \ \ \ {\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ System.out.println("B\ is\ greater");\n\ \ \ \ \ \ \ \ \ \ \ \ }\n\ \ \ \ \ \ \ \ \ \ \ \ else\n\ \ \ \ \ \ \ \ \ \ \ \ {\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ System.out.println("Both\ are\ equal");\n\ \ \ \ \ \ \ \ \ \ \ \ }\n\ \ \ \ \ \ \ \ }\n}
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
