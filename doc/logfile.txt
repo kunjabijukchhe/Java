@@ -1,0 +1,30 @@
+Class documentation
+<---- javadoc command: ---->
+/usr/lib/jvm/java-11-openjdk-amd64/bin/javadoc
+-author
+-version
+-nodeprecated
+-package
+-Xdoclint:none
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+11
+-classpath
+/usr/share/bluej/bluejcore.jar:/usr/share/bluej/junit-4.11.jar:/usr/share/bluej/hamcrest-core-1.3.jar:/usr/share/bluej/lang-stride.jar:/usr/share/java/javafx-base-11.jar:/usr/share/java/javafx-controls-11.jar:/usr/share/java/javafx-fxml-11.jar:/usr/share/java/javafx-graphics-11.jar:/usr/share/java/javafx-media-11.jar:/usr/share/java/javafx-properties-11.jar:/usr/share/java/javafx-swing-11.jar:/usr/share/java/javafx-web-11.jar:/home/kunja/java
+-d
+/home/kunja/java/doc
+-encoding
+UTF-8
+-charset
+UTF-8
+/home/kunja/java/Pattern1.java
+<---- end of javadoc command ---->
+Loading source file /home/kunja/java/Pattern1.java...
+Constructing Javadoc information...
+/home/kunja/java/Pattern1.java:1: error: class Practice1 is public, should be declared in a file named Practice1.java
+public class Practice1{
+       ^
+1 error

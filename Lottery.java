@@ -21,7 +21,7 @@ public class Lottery{
         
         if(input==a)
         {
-            System.out.println("You have won $10000"+" \n\t\t***Lottery number is "+a+"***");
+            System.out.println("You have won $100000"+" \n\t\t***Lottery number is "+a+"***");
         }
         else if((lottFirst==userFirst ||lottFirst==userLast) && (lottLast==userFirst || lottLast==userLast))
         {
